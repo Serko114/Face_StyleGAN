@@ -6,4 +6,4 @@ image_to_latent.pt
 dlatents.npy
 notes.txt
 .conda
-.git
+# .git
